@@ -1,3 +1,5 @@
+package funcionario;
+
 @Entity
 public class FuncionarioModel {
     @Id
